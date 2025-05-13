@@ -1,0 +1,14 @@
+# Core libraries for data manipulation and analysis
+pandas
+numpy
+
+# Libraries for data visualization
+matplotlib
+seaborn
+
+# Library for statistical functions (e.g., for hypothesis testing)
+scipy
+
+# Jupyter environment
+jupyterlab notebook
+Google Colab
